@@ -51,7 +51,10 @@ This is a simple 3-tier rule engine application that determines user eligibility
   ###  Create a virtual environment 
     python -m venv venv
   ### Initialize the virtual environment 
+  On Windows
     venv/Scripts/activate
+  On Mac
+     source venu/bin/acitvate
   ### Install dependencies:
       pip install -r requirements.txt
   ### Initialize the database:
