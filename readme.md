@@ -46,6 +46,8 @@ This is a simple 3-tier rule engine application that determines user eligibility
 
 
   ### Build and Install
+  ### Clone the Repository to get local copy
+    git clone https://github.com/thelostkid24/Application1.git
   ###  Create a virtual environment 
     python -m venv venv
   ### Initialize the virtual environment 
